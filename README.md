@@ -1,6 +1,6 @@
 # runnuing_dice
 here is the demo 
-![dices](https://user-images.githubusercontent.com/43213197/59931568-e15a2d00-9462-11e9-99c2-c6a85d96f8b1.gif)
+<img src = "https://user-images.githubusercontent.com/43213197/59931568-e15a2d00-9462-11e9-99c2-c6a85d96f8b1.gif" width = "40%">
 
 
 A new Flutter project.
